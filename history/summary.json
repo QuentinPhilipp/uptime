@@ -1,25 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 85,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
-    "dailyMinutesDown": {
-      "2023-09-27": 20
-    }
-  },
-  {
     "name": "blog",
     "url": "https://blog.quentinphilipp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/blog.quentinphilipp.fr.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 909,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 772,
+    "timeDay": 872,
+    "timeWeek": 772,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 543,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "time": 510,
+    "timeDay": 603,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   }
 ]
