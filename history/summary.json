@@ -4,19 +4,19 @@
     "url": "https://blog.quentinphilipp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/blog.quentinphilipp.fr.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 445,
-    "timeWeek": 2262,
-    "timeMonth": 1101,
-    "timeYear": 735,
+    "time": 734,
+    "timeDay": 483,
+    "timeWeek": 2120,
+    "timeMonth": 1086,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 7
     }
   },
   {
