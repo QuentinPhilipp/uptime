@@ -4,9 +4,9 @@
     "url": "https://blog.quentinphilipp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/blog.quentinphilipp.fr.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1055,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2024-04-26": 1,
       "2024-04-21": 26
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://equivallee.quentinphilipp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/equivallee.quentinphilipp.fr.ico",
     "slug": "equivallee-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 674,
     "timeYear": 519,
     "dailyMinutesDown": {
+      "2024-04-26": 0,
       "2024-04-15": 27
     }
   }
