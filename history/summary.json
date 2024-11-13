@@ -22,17 +22,19 @@
     "url": "https://equivallee.quentinphilipp.fr",
     "icon": "https://icons.duckduckgo.com/ip3/equivallee.quentinphilipp.fr.ico",
     "slug": "equivallee-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 462,
-    "timeWeek": 482,
-    "timeMonth": 511,
-    "timeYear": 511,
-    "dailyMinutesDown": {}
+    "time": 505,
+    "timeDay": 438,
+    "timeWeek": 474,
+    "timeMonth": 505,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   }
 ]
