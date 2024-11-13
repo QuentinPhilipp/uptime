@@ -7,8 +7,8 @@ sites:
     url: https://blog.quentinphilipp.fr
   - name: Equivallee Booking
     url: https://equivallee.quentinphilipp.fr
-    expectedStatusCodes:
-      - 401
+    headers:
+      - "Authorization: Basic $SECRET_EQUIVALLEE_SMS"
 
 status-website:
   baseUrl: /uptime
