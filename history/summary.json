@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 711,
-    "timeDay": 671,
-    "timeWeek": 718,
-    "timeMonth": 705,
+    "timeDay": 515,
+    "timeWeek": 705,
+    "timeMonth": 693,
     "timeYear": 725,
-    "dailyMinutesDown": {
-      "2025-03-07": 49
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Equivallee Booking",
@@ -31,13 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 551,
-    "timeDay": 472,
-    "timeWeek": 559,
-    "timeMonth": 552,
+    "timeDay": 398,
+    "timeWeek": 561,
+    "timeMonth": 543,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-01-05": 23,
-      "2025-03-07": 57
+      "2026-01-05": 23
     }
   }
 ]
